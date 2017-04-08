@@ -1,4 +1,7 @@
+clone of https://libraries.io/go/code.google.com%2Fp%2Fgodec%2Fdec
+
 godec: multi-precision decimal arithmetic for go
+
 
 The API and the implementation are based on and complement those in the
 multi-precision integer (Int) implementation in the Go library (math/big).
